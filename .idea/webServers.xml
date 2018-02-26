@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ad2374bb-49ae-4d43-9733-8e0f17f325a4" name="https://github.com/ford19982541/projectMyStore.git" url="https://github.com/ford19982541/projectMyStore.git">
+        <fileTransfer port="0" mountedRoot="D:\projectMyStore" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

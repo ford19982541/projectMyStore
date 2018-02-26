@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/ford19982541/projectMyStore.git" uploadOnCheckin="ad2374bb-49ae-4d43-9733-8e0f17f325a4">
+    <serverData>
+      <paths name="https://github.com/ford19982541/projectMyStore.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/ford19982541/projectMyStore.git" />
+  </component>
+</project>
