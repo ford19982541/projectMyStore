@@ -5,3 +5,5 @@ def home(request):
     return render(request,'accounts/home.html')
 def contact(request):
     return render(request,'accounts/basic.html',{'content':['if you world like to contact ,please email ','ford@gmail.com']})
+def login(request):
+    return render(request,'accounts/login.html')
